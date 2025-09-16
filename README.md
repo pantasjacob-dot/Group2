@@ -221,21 +221,15 @@ main {
     <h2>YouTube Channel Fundraising Plan</h2>
     <h3>Chosen Category</h3>
     <p>Vlogs</p>
-
     <h3>Target Audience</h3>
     <p>Gen Z’s & Millennials</p>
-
     <h3>Plan</h3>
     <p>The primary purpose of understanding what your audience’s interests are is to know what type of content to display.
     By that, I’m saying that knowing your audience wants that and needs means you are able to satisfy or keep them entertained in a way that keeps them engaged in watching your content.</p>
-
     <h3>Needs</h3>
     <p>To be more effective, we need to know what they're interested in or what they enjoy based on their age and gender; like daily vlogs, travelling, and many more. Creating these types of vlogs can boost the audience's interest with the vlog, make the audience feel like they also belong on that video or they feel comfortable with that type of content such as daily vlogs, get ready with me and shop with me vlogs. A travel vlog needs good commentary while still staying on the main topic like where they are or what they are doing, while daily vlogs will be about things the audience can relate to or specifically entertain them.</p>
-
     <p>Audiences like recommendations; giving their experience or feedback about life and trips like cities and countries they've been to such as Resorts, Hotels, and Beaches. With recommendations we would be able to learn about a hotel's cleanliness, the quality of service, or the actual price of a trip, which could help us avoid wasting time and money on a place that doesn't live up to the hype. It turns inspiration into a clear plan.</p>
-
     <p>Audiences are interested in videos that are edited excellently because good editing makes the video more exciting and easy to watch by controlling how fast the video goes and removes mistakes, awkward pauses, and only leaving the best parts of the video. It makes them more entertained and feel like they are part of your vlog by being guided throughout your video.</p>
-
     <p>The target audience wants to watch exciting places and activities and needs to be entertained and interacted by the vlogger like talking to the camera and doing other things to lighten the mood. The vlogger's role in keeping the audience engaged is by doing a fun editing for entertainment, interacting with the audience by talking to the camera or answering their comments and do the audience suggested content to do next.</p>
   </main>
 </body>
